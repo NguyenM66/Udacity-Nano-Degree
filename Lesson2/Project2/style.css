@@ -1,0 +1,169 @@
+
+/* Repeated Blocks */
+
+body {
+	margin: 0px;
+	padding: 0px;
+	width: 960px;
+	background-image: url("../images/concrete_seamless.png");
+}
+
+div.headerbox{
+	margin: 0px;
+	padding: 0px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	height: 75px;
+	background-color: white;
+	border-bottom: solid #cccccc;
+	border-width: 3px;
+}
+
+div.header {
+	position: absolute;
+	bottom: 0px;
+	left: 175px;
+	width: 25%;
+	height: 60px;
+	background-color: #4aaaa5;
+	color:#ffffff;
+	font-family: 'Georgia';
+	font-size: 14px;
+	text-align: center;
+}
+
+div.pagelinks {
+	position: absolute;
+	bottom: 5px;
+	right: 275px;
+	width: 250px;
+	height: 35px;
+	font-family: sans-serif;
+	font-size: 15px;
+	text-align: center;
+}
+
+a.pagelinks, h4 {
+	color: #777777;
+	text-decoration: none;
+}
+
+/* content indiviidual to index page */
+
+div.aboutme {
+	position: fixed;
+	top: 125px;
+	left: 175px;
+	width: 650px;
+	height: 500px;
+	background-color: white;
+}
+
+h2.aboutme {
+	position: absolute;
+	left: 20px;
+	top: 10px;
+	width: 90%;
+	height: 50px;
+	border-bottom: solid #cccccc;
+	border-width: 3px;
+	color: #4aaaa5;
+	font-family: 'Georgia';
+	font-size: 30px;
+}
+
+img.aboutpic {
+	border-right: 20px solid;
+	border-bottom: 10px solid;
+	border-color: #ffffff;
+	float: left;
+	width: 175px;
+	height: 175px;
+}
+
+div.bio {
+	position: absolute;
+	left: 20px;
+	top: 100px;
+	width: 90%;
+}
+
+p.bio {
+	color: #777777;
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+div.myhobbies {
+	position: fixed;
+	top: 470px;
+	left: 175px;
+	width: 650px;
+	height: 500px;
+	background-color: white;
+}
+
+h2.myhobbies {
+	position: absolute;
+	left: 20px;
+	top: 10px;
+	width: 90%;
+	height: 50px;
+	border-bottom: solid #cccccc;
+	border-width: 3px;
+	color: #4aaaa5;
+	font-family: 'Georgia';
+	font-size: 30px;
+}
+
+div.hobbies {
+	position: absolute;
+	left: 20px;
+	top: 100px;
+	width: 90%;
+}
+
+p.hobbies {
+	color: #777777;
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+div.project {
+	position: fixed;
+	top: 720px;
+	left: 175px;
+	width: 650px;
+	height: 500px;
+	background-color: white;
+}
+
+h2.project {
+	position: absolute;
+	left: 20px;
+	top: 10px;
+	width: 90%;
+	height: 50px;
+	border-bottom: solid #cccccc;
+	border-width: 3px;
+	color: #4aaaa5;
+	font-family: 'Georgia';
+	font-size: 30px;
+}
+
+div.bus {
+	position: absolute;
+	left: 20px;
+	top: 100px;
+	width: 90%;
+}
+
+p.bus {
+	color: #777777;
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 25px;
+}
